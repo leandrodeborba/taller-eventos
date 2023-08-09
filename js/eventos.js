@@ -1,7 +1,7 @@
-document.querySelector("#div").addEventListener("click",mostrarMensaje);
+document.querySelector("#btnSaludar").addEventListener("click",mostrarMensaje);
 
 function mostrarMensaje(){
-    alert("Hola! Soy el div");
+    alert("Hola! ");
 }
 
 
