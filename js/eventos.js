@@ -1,7 +1,6 @@
-document.querySelector("#btnSaludar").addEventListener("click",mostrarMensaje);
 
 function mostrarMensaje(){
-    alert("Hola! ");
+    alert("Hola!");
 }
 
 
